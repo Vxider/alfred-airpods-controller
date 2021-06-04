@@ -15,7 +15,9 @@ This workflow helps you control your AirPods Pro using Alfred.
 1. Change `Your AirPods Name Here` to your AirPods name.
 ![install-2](screenshots/install-2.png)
 
-For Chinese users, please download `AirPods Pro Controller(CHS).alfredworkflow`.
+For Chinese users, please download `AirPods Pro Controller(CHS)`.
+
+For Big Sur users, download `AirPods Controller(BigSur)` or `AirPods Controller(BigSur-CHS)`
 
 # Usage
 
